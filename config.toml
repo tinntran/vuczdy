@@ -1,0 +1,10 @@
+baseURL = 'https://vuczdy.ml/'
+languageCode = 'en-us'
+title = 'vuczdy'
+
+[menu]
+  [[menu.main]]
+  identifier = 'about'
+  name = '/about'
+  url = '/about'
+
