@@ -21,14 +21,14 @@ a {
 }
 
 a:hover {
-  background-color: #eee;
   color: #333;
+  background-color: #eee;
   transition: 128ms;
 }
 
 a:active {
+  color: #000;
   background-color: #999;
-  color: #333;
   animation: 128ms;
 }
 
@@ -37,6 +37,10 @@ a:active {
 }
 
 /* ARTICLES */
+
+.post-content {
+  margin-bottom: 3rem;
+}
 
 article {
   margin: 1rem 0;

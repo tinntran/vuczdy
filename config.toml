@@ -1,5 +1,5 @@
-baseURL = 'https://vuczdy.ml/'
-languageCode = 'en-us'
+baseURL = 'https://vuczdy.netlify.app/'
+languageCode = 'vi-vn'
 title = 'vuczdy'
 
 [menu]

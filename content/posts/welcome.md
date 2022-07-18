@@ -4,12 +4,10 @@ date: 2022-07-18T17:07:10+07:00
 draft: false 
 ---
 
-### Hello, reader!
-This is the website which have lots of **vuczdy's codes**
+## Chào các editor AM!
+Tất cả các **code** AM của [@duyvufloren1506](https://www.tiktok.com/@duyzufloren1506) được lưu trữ ở trang web này.
 
-_his codes sucks as f***, don't tell him._
+**[Thông tin chi tiết.](/about)**
 
-**Go back to the homepage and choose some codes!**
-
-_-- tinntran_
+-- from admin
 
