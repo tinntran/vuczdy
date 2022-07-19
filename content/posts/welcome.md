@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## Chào các editor AM!
-Tất cả các **code** AM của [@duyvufloren1506](https://www.tiktok.com/@duyzufloren1506) được lưu trữ ở trang web này.
+Tất cả các **code** AM của [@duyvufloren1506](https://www.tiktok.com/@duyzufloren1506) được lưu trữ ở trang web này[.](/lol)
 
 **[Thông tin chi tiết.](/about)**
 
