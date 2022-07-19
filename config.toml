@@ -4,6 +4,10 @@ title = 'vuczdy'
 
 [menu]
   [[menu.main]]
+  identifier = 'welcome'
+  name = '/welcome'
+  url = '/posts/welcome'
+  [[menu.main]]
   identifier = 'about'
   name = '/about'
   url = '/about'
